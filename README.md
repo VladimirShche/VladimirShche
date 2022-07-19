@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VladimirShche
-- 👀 I’m interested in veb-disign!
-- 🌱 I’m currently learning in Yandex Prackticum academy.
+- 👀 I’m interested in QA!
+- 🌱 I’m currently learning in SkillFactory academy.
 
 
 <!---
